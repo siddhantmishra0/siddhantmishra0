@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/siddhantmi22852" target="blank"><img src="https://img.shields.io/twitter/follow/siddhantmi22852?logo=twitter&style=for-the-badge" alt="siddhantmi22852" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Full Stack**
 
 - 📫 How to reach me **mishrasiddhant2605@gmail.com**
 
